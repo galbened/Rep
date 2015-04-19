@@ -1,0 +1,5 @@
+C:\Users\B&K\Documents\GitHub\Rep\Testing\Testing\bin\Debug\Testing.exe.config
+C:\Users\B&K\Documents\GitHub\Rep\Testing\Testing\bin\Debug\Testing.exe
+C:\Users\B&K\Documents\GitHub\Rep\Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\B&K\Documents\GitHub\Rep\Testing\Testing\obj\Debug\Testing.exe
+C:\Users\B&K\Documents\GitHub\Rep\Testing\Testing\obj\Debug\Testing.pdb
